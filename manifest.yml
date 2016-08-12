@@ -1,6 +1,6 @@
 ---
 applications:
-- name: GuessTheWord
+- name: GuessTheWord2
   framework: node
   runtime: node08
   memory: 64M
