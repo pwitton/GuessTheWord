@@ -1,10 +1,10 @@
 ---
 applications:
-- name: GuessTheWord
+- name: GuessTheWordpw
   framework: node
   runtime: node08
   memory: 64M
   instances: 1
-  host: GuessTheWordPW
+  host: GuessTheWordpw
   path: .     
   command: node server.js
